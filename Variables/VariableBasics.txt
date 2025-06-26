@@ -1,0 +1,7 @@
+trying to solve realworld problem using the virtual problem.. for cab uber .
+-------------------------------------------------------------------------
+
+                                varibale.
+a box wbere data can be stored may be text , may be numeric  all this things can be stores to varibale , all this box will have a name
+
+java is strongly typed language..(string,int,)
