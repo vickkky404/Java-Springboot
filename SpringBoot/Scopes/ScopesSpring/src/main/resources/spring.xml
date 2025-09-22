@@ -1,0 +1,7 @@
+<!--in this xml file the <beans> tag is used..-->
+<beans>
+
+    <bean id="#"  scope = "prototype"> 
+
+    </bean>
+</beans>
